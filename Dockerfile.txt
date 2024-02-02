@@ -1,0 +1,2 @@
+FROM tomcat:latest
+COPY ./onlinebookstore.war /usr/local/tomcat/webapps/

@@ -1,0 +1,12 @@
+#!/bin/bash
+
+cp /var/lib/jenkins/workspace/project/target/onlinebookstore.war /root
+
+docker build -t project-image  .
+docker run -d -p 8081:8080 project-image
+
+docker tag project-image anujj0463/project-image
+
+docker push anujj0463/project-image
+
+
