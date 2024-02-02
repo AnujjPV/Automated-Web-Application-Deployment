@@ -1,5 +1,5 @@
 <div align="center">
-<a href = "https://hub.docker.com/repository/docker/anujj0463/project-image/general" ><img src="https://img.shields.io/badge/Docker-Project_Image-red
+<a href = "https://hub.docker.com/repository/docker/anujj0463/project-image/general" ><img alt="Static Badge" src="https://img.shields.io/badge/Docker-Project_Image-red">
 " width="220"height="35"></a>
 </div>
 
