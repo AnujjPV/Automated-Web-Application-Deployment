@@ -43,9 +43,8 @@ In an effort to streamline our deployment process, we successfully implemented a
 In summary, the successful implementation of an automated deployment process using Jenkins and the Deploy Plugin not only drastically reduced deployment time but also ensured a consistent and error-free deployment process. This initiative aligns with our commitment to adopting best practices in DevOps and enhancing the overall efficiency of our software delivery lifecycle.
 
 
-<div align="center">
+
 <a href = "https://hub.docker.com/repository/docker/anujj0463/project-image/general" ><img src="https://img.shields.io/badge/Docker-Project_Image-red
 " width="220"height="35"></a>
-</div>
 
 
